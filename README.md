@@ -1,11 +1,9 @@
 # Air-Monitoring-System-IoT
-This project deals with measuring Air Quality using MQ135 sensor along with
-Temperature & Humidity DHT11 sensor. Measuring Air Quality is an important element for
-bringing lot of awareness in the people to take care of the future generations a healthier life.
-Based on this, Government of India has already taken certain measures to ban 'Single Stroke' and
-'Two Stroke' Engine based motorcycles which are emitting high pollutions comparatively. We
-are trying to implement the same system using IoT application platforms like Think Speak Cloud server, we can
-bring awareness to every individual about the harm we are doing to our environment. Already,
-New Delhi is remarked as the most pollution city in the world recording Air Quality above
-300PPM. We set the Bar Graph as well as serial display monitor on home screen of Think Speak to public such
-that everyone can come to know the Air Quality at the location where the Sensors is installed.
+The project's main goal is to measure air quality using the MQ135 sensor in conjunction with DHT11 temperature and humidity sensors.
+Significance: Encouraging awareness and advocating for a healthier future for future generations depend heavily on air quality monitoring.
+Governmental Programs: Because of their high emissions of pollutants, the Indian government has taken action to restrict motorcycles with "single" and "two" stroke engines.
+Implementation: ThinkSpeak Cloud server and other IoT platforms will be used in the project's implementation of a comparable system.
+The intention is to raise people's awareness of the harm that pollution causes to the environment.
+New Delhi is known as one of the most polluted cities in the world, with air quality frequently reaching 300 parts per million.
+Visualization: To raise public awareness of air quality, the project uses bar graphs and serial monitors to display information on ThinkSpeak's home screen.
+
